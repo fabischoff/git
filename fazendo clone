@@ -1,0 +1,10 @@
+
+git clone <endereco_do_repositorio>
+
+https://github.com/fabischoff/git.git /*cria diretório com o nome git*/
+
+git clone <endereco_do_repositorio> <nome_do_diretorio> /*Criar diretório com nome diferente*/
+
+git checkout -b <nome_do_branch> origin/<nome_do_branch>
+
+git pull /*verificar sincronização dos arquivos*/

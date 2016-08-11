@@ -17,5 +17,6 @@ git commit -m <mensagem>
 git log
 
 git branch /*Para saber em que branch esta*/
+git branch -a /*exibir branchs locais e remotos*/
 
 git checkout <nome_branch>
