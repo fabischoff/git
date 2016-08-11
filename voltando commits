@@ -1,0 +1,5 @@
+git checkout <hash>
+git reset HEAD~<valor> /*valor = número de commites */
+git reset HEAD~<valor> --soft /*valor = número de commites */
+
+git reset HEAD~<valor> -- hard /* Elimina todos os arquivos do commit */

@@ -1,0 +1,10 @@
+ssh-keygen <enter + enter>
+cd /home/<usuario>/.ssh
+cat id_rsa.pub
+
+No git hub
+profile
+SSH and GPK Keys
+New SSH key
+dar um título
+colar contéudo do arquivo id_rsa.pub

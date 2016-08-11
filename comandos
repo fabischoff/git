@@ -1,0 +1,21 @@
+git config --global user.name "fausto bischoff"
+git config --global user.email "fabischoff@gmail.com"
+git config --global color.ui true
+
+git init
+
+git status
+
+git add <nome_do_arquivo>
+git add . /*Todos os arquivos*/
+
+git commit -a -m "comitando e adicionando os arquivos"
+git commit  /*Abrirá editor de texto para mensagem*/
+
+git commit -m <mensagem>
+
+git log
+
+git branch /*Para saber em que branch esta*/
+
+git checkout <nome_branch>

@@ -1,0 +1,6 @@
+dois branch's - master e funcionalidade
+estar no branch master e meclar funcionalidade1
+git merge funcionalidade1 /*gera um novo commit*/
+rebase /*Organiza os commits linearmente*/
+git rebase funcionalidade1
+
