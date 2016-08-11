@@ -1,2 +1,9 @@
 git push origin master /*Subindo arquivos para o repositório - fazer após dar um commit*/
 
+git push origin <novo_branch> /*Para criar um novo branch no repositorio remoto*/
+
+git pull origin master /*Baixar arquivos do servidor*/
+
+
+
+

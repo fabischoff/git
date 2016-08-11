@@ -1,0 +1,5 @@
+git tag <versao> /**/
+git tag 0.1.0
+git tag -l /*listar as tags existentes*/
+
+git push origin mastar --tags /*Criando realease no servidor*/
