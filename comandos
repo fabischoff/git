@@ -15,6 +15,8 @@ git commit  /*Abrirá editor de texto para mensagem*/
 git commit -m <mensagem>
 
 git log
+git log -n 2 /*mostrar apenas os dois últimos commits*/
+git log --oneline /*resumo conciso*/
 
 git branch /*Para saber em que branch esta*/
 git branch -a /*exibir branchs locais e remotos*/
@@ -22,3 +24,5 @@ git branch -a /*exibir branchs locais e remotos*/
 git checkout <nome_branch>
 
 git pull /*Sincronizar arquivos*/
+
+git config --list /*verificar configuração*/

@@ -1,0 +1,4 @@
+Entrar no diretório que contém o repositório local
+git remote add origin https://github.com/fabischoff/bootstrap
+git pull origin master /*baixar os arquivos*/
+git push origin master /*enviar os arquivos*/
