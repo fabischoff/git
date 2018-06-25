@@ -26,3 +26,4 @@ git checkout <nome_branch>
 git pull /*Sincronizar arquivos*/
 
 git config --list /*verificar configuração*/
+git config --global -l

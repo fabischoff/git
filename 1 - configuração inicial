@@ -1,0 +1,18 @@
+### Níveis de configuração ###
+--system (todos os usuários do sistema)
+--global (somente para o usuário)
+
+### Identidade ###
+
+git config --global user.name "fausto bischoff"
+git config --global user.email "fabischoff@gmail.com"
+
+### Editor ###
+
+git config --global core.editor vim 
+
+
+git config --global color.ui true
+
+### Armazenar senha e usuário ###l
+git config --global credential.helper cache
