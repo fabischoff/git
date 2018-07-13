@@ -1,0 +1,3 @@
+git branch --no-merged /*Verificar branches não mescladas
+git branch --merged
+git merge <nome_da_branch> -m "<mensagem>"

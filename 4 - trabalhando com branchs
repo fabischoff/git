@@ -1,1 +1,6 @@
-git checkout -b <nome_do_branch>
+git checkout -b <nome_da_branch>
+git checkout -d <nome_da_branch> /*Sem commit*/
+git checkout -D <nome_da_branch> /*Com commit*/
+git branch --no-merged /*Verificar branches não mescladas
+git branch --merged
+

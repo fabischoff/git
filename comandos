@@ -17,9 +17,16 @@ git commit -m <mensagem>
 git log
 git log -n 2 /*mostrar apenas os dois últimos commits*/
 git log --oneline /*resumo conciso*/
+git log --parents /*mostrar respectivos pais*/
+git log --decorate /* para qual commit a master esta apontando */
+
+/*juntando tudo*/
+git log -online --decorate --parents
 
 git branch /*Para saber em que branch esta*/
 git branch -a /*exibir branchs locais e remotos*/
+git branch -v /* branches com os commits */
+
 
 git checkout <nome_branch>
 
